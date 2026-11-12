@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ssenkubuge Abbey — Software Developer. Mobile, web and data." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ssenkubuge Abbey — software developer, data analyst, and teaching assistant." width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 # Hi, I'm Abbey
 
-I'm **Ssenkubuge Abbey**, a software developer based in **Mbarara, Uganda**, studying at **Mbarara University of Science and Technology**. I build mobile apps, web platforms, and data tools that solve real problems.
+I'm **Ssenkubuge Abbey** — a **software developer, data analyst, and teaching assistant** based in **Mbarara, Uganda**, studying at **Mbarara University of Science and Technology**. I build mobile apps, web platforms, and data tools that solve real problems.
 
 I turn data into useful decisions and help learners grow their technical confidence, while building products for collaborative learning, community reporting, job discovery, and data exploration.
 

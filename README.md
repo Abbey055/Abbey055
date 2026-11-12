@@ -6,14 +6,14 @@
   <a href="#featured-projects">Featured projects</a> ·
   <a href="#selected-work">Selected work</a> ·
   <a href="PROJECTS.md">All projects</a> ·
-  <a href="https://www.youtube.com/@musumbasa">YouTube</a>
+  <a href="https://www.youtube.com/@abbeyssenkubuge">YouTube</a>
 </p>
 
 # Hi, I'm Abbey
 
-I'm **Ssenkubuge Abbey** — a **software developer, data analyst, and teaching assistant** based in **Mbarara, Uganda**, studying at **Mbarara University of Science and Technology**. I build mobile apps, web platforms, and data tools that solve real problems.
+I'm **Ssenkubuge Abbey** — a **software developer, data analyst, and teaching assistant** based in **Mbarara, Uganda**, and a graduate of **Mbarara University of Science and Technology**. I build mobile apps, web platforms, and data tools that solve real problems.
 
-I turn data into useful decisions and help learners grow their technical confidence, while building products for collaborative learning, community reporting, job discovery, and data exploration.
+I turn data into useful decisions, help learners grow their technical confidence, and build products for collaborative learning, community reporting, job discovery, and data exploration.
 
 ## Working with
 
@@ -83,4 +83,7 @@ Browse the **[complete project directory →](PROJECTS.md)** for mobile apps, we
 
 ## Connect
 
-[GitHub](https://github.com/Abbey055) · [YouTube & project walkthroughs](https://www.youtube.com/@musumbasa)
+<p>
+  <a href="https://github.com/Abbey055"><img src="https://img.shields.io/badge/GitHub-Abbey055-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: Abbey055" /></a>
+  <a href="https://www.youtube.com/@abbeyssenkubuge"><img src="https://img.shields.io/badge/YouTube-@abbeyssenkubuge-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @abbeyssenkubuge" /></a>
+</p>

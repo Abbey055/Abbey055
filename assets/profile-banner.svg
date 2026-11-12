@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Ssenkubuge Abbey — Software Developer</title>
+<desc id="desc">Mobile, web and data. Building useful software in Mbarara, Uganda.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#162f40"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern></defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+<rect x="64" y="61" width="39" height="5" rx="2.5" fill="#68e0be"/>
+<text x="64" y="119" fill="#90aebe" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="4">SOFTWARE DEVELOPER</text>
+<text x="60" y="194" fill="#f4f8fb" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Ssenkubuge Abbey</text>
+<text x="64" y="242" fill="#c5d7e0" font-family="Segoe UI,Arial,sans-serif" font-size="24">Mobile, web &amp; data. Building useful software.</text>
+<text x="64" y="302" fill="#83a1b3" font-family="Segoe UI,Arial,sans-serif" font-size="17">MBARARA, UGANDA</text>
+<g transform="translate(1000 95)" fill="none" stroke="#68e0be" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M40 35 0 85l40 50M130 35l40 50-40 50M105 0 65 170"/><circle cx="185" cy="175" r="8" fill="#68e0be" stroke="none"/></g>
+</svg>

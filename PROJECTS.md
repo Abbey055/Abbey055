@@ -34,6 +34,7 @@ A guide to my public repositories, grouped by purpose. Display titles are writte
 
 | Project | Overview | Stack / context |
 | :--- | :--- | :--- |
+| **[Coffee Analysis Project 1](https://github.com/Abbey055/coffee-analysis-project-1)** | MySQL analysis of 10,388 coffee sales records to assess revenue, customer demand, rent, and expansion locations. | MySQL · SQL · Data analysis |
 | **[VeloceAI](https://github.com/Abbey055/veloceAi)** | CSV and Excel analytics workspace with SQL exploration, charts, and an AI assistant. | Python · Streamlit · DuckDB · Plotly |
 | **[Streamlit Chatbot](https://github.com/Abbey055/chatbot)** | Chatbot template demonstrating an OpenAI-backed Streamlit interface. | Python · Streamlit |
 

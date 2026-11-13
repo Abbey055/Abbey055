@@ -62,6 +62,7 @@ An Android app that helps communities report local issues with photos, locations
 | :--- | :--- | :--- |
 | **[JobAnalyser](https://github.com/Abbey055/jobanalyser)** | Helps job seekers understand job posts and prepare applications, with Luganda translation. | Kotlin, Supabase, Groq |
 | **[CivicWatch](https://github.com/Abbey055/civicwatch)** | Lets communities report local issues using photos, maps, and progress tracking. | Java, Android, Firebase |
+| **[Coffee Analysis Project 1](https://github.com/Abbey055/coffee-analysis-project-1)** | Uses MySQL to compare customer demand, revenue, rent, and market potential for coffee-store expansion. | MySQL, SQL, data analysis |
 | **[VeloceAI](https://github.com/Abbey055/veloceAi)** | Explores CSV and Excel data with SQL, interactive charts, and an AI assistant. | Python, Streamlit, DuckDB, Plotly |
 | **[Faculty Voting System](https://github.com/Abbey055/evotingSystem)** | Supports faculty elections with voter verification and a guided ballot. | React, Supabase, serverless APIs |
 | **[Java & PostgreSQL Assessment](https://github.com/Abbey055/servspace-technical-assessment)** | Implements an algorithm, a concurrent job queue, and a banking transfer service. | Java 17, Maven, PostgreSQL |
